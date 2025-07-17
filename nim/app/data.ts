@@ -75,15 +75,6 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
 ]
 
-export const BLOG_POSTS: BlogPost[] = [
-        {
-          title: 'I Tried Every Text Editor So You Don\'t Have To',
-          description: 'A comprehensive review of 50+ text editors in 2025',
-          link: '/blog/testing-every-text-editor',
-          uid: 'blog-1',
-    date: '2025-01-15',
-        }
-]
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {

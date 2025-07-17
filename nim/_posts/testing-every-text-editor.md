@@ -1,23 +1,18 @@
-export const metadata = {
-  title: 'I Tried Every Text Editor So You Don\'t Have To',
-  description:
-    'A comprehensive review of 50+ text editors in 2025',
-  alternates: {
-    canonical: '/blog/testing-every-text-editor',
-  },
-};
-
-<Cover
-  src="/assets/meme-text-editor.webp"
-  alt=""
-  caption=""
-/>
+---
+title: "I Tried Every Text Editor So You Don't Have To"
+excerpt: "A comprehensive review of 50+ text editors in 2025"
+coverImage: "/assets/meme-text-editor.webp"
+date: "2024-03-20T12:00:00.000Z"
+author:
+  name: Porter
+  picture: "/assets/blog/authors/porter.jpeg"
+ogImage:
+  url: "/assets/blog/text-editors/cover.jpg"
+---
 
 # I Tried Every Text Editor So You Don't Have To
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-
----
 
 ## Section Title
 
@@ -26,8 +21,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant m
 ### Subsection
 
 Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus rutrum lorem imperdiet.
-
----
 
 ## Another Section
 
@@ -39,13 +32,9 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
----
-
 ## Final Section
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati.
-
----
 
 ### Questions for Reflection
 
@@ -58,8 +47,6 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 - [Dolor Sit Amet](https://example.com)
 - [Consectetur Adipiscing](https://example.com)
 
----
-
 ### Music for Coding
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Try listening to _"Example Song"_ by Example Artist.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Try listening to _"Example Song"_ by Example Artist. 
