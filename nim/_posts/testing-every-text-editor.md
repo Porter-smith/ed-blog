@@ -69,12 +69,14 @@ it's simple
 
 when i open vscode there is soooo many features in there. I have been using it for years and I still find feature i am not using. While this is good I think it is really something in life to kind of have a tool just made for doing that thing. Want to edit a line and change the text of something in ed well in ed you can just do that in one line:
 
+```zsh
 $ ed hello.txt
 5p
 contact me at hello@world.com
 5s/hello@world.com/portersmith.dev/
 w
 q
+```
 
 
 and bang you just edited that text pretty cool
